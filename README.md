@@ -1,2 +1,2 @@
 # Face-Recognition
-still in progress, come back in a bit 
+still in progress, come back in a bit for results
