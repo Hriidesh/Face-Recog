@@ -1,2 +1,3 @@
 # Face-Recognition
-still in progress, come back in a bit for results
+Image verification using TensorFlow, NumPy, Matplotlib
+Collection of Anchor, Positive, and Negative images for verification after training saimese model.
